@@ -1,0 +1,9 @@
+venv/*
+dist/*
+build/*
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+main.spec
